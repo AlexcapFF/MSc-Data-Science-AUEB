@@ -1,5 +1,5 @@
 # Practical Data Science (1st Trimester)
-*This branch contains the 2 assignments for the Practical Data Science course.*<br><br>
+*This folder contains the 2 assignments for the Practical Data Science course.*<br><br>
 This course served as an introduction to data science methods and its main goal was to familiarize us with Python and Jupyter Notebook. 
 <br>
 
