@@ -1,6 +1,6 @@
 # Text Analytics
-*This branch contains 2/4 assignments for the Text Analytics course* <br>
-**Note:** The projects were a group effort. <br>
+*This folder contains 2/4 assignments for the Text Analytics course* <br><br>
+**Note:** The projects were a group effort. <br><br>
 For more info (data, requirements) you can check the team's repo in gitlab:<br>
 https://gitlab.com/aueb-msc-ds/text-analytics <br>
 And I strongly suggest a visit to my colleagues' githubs:
