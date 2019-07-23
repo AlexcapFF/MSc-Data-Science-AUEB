@@ -1,0 +1,12 @@
+papagandalf@cluster1-m:~$ spark-submit part4.py 
+19/04/22 18:28:47 INFO org.spark_project.jetty.util.log: Logging initialized @2444ms
+19/04/22 18:28:47 INFO org.spark_project.jetty.server.Server: jetty-9.3.z-SNAPSHOT, build timestamp: unknown, git hash: unknown
+19/04/22 18:28:47 INFO org.spark_project.jetty.server.Server: Started @2556ms
+19/04/22 18:28:47 INFO org.spark_project.jetty.server.AbstractConnector: Started ServerConnector@476dbd05{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+19/04/22 18:28:47 WARN org.apache.spark.scheduler.FairSchedulableBuilder: Fair Scheduler configuration file not found so jobs will be scheduled in FIFO order. To use fair scheduling, configure pools in fairscheduler.xml or set spark.scheduler.allocation.file to a file that contains the configuration.
+19/04/22 18:28:49 INFO org.apache.hadoop.yarn.client.RMProxy: Connecting to ResourceManager at cluster1-m/10.132.0.14:8032
+19/04/22 18:28:49 INFO org.apache.hadoop.yarn.client.AHSProxy: Connecting to Application History server at cluster1-m/10.132.0.14:10200
+19/04/22 18:28:51 INFO org.apache.hadoop.yarn.client.api.impl.YarnClientImpl: Submitted application application_1555953110757_0008
+rm: `hdfs:///data/shakespeare_word_count_part4': No such file or directory
+19/04/22 18:29:00 INFO org.apache.hadoop.mapred.FileInputFormat: Total input files to process : 1
+19/04/22 18:29:29 INFO org.spark_project.jetty.server.AbstractConnector: Stopped Spark@476dbd05{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
