@@ -1,7 +1,7 @@
 # MSc. Data Science
 
 ### Introduction
-This repository contains all the assignments I completed for the **MSc. in Data Science** offered by the **Athens University of Economics and Business** in the time period 2018-2020.
+This repository contains all the assignments I completed for the **MSc. in Data Science** offered by the **Athens University of Economics and Business** in the time period 2018-2020.<br>
 <br> All assignments have been evaluated and graded before they were uploaded.<br>
 Those that were group assignements are noted in the course's README. <br>
 
