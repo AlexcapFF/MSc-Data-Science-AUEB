@@ -1,4 +1,4 @@
-# Machine Learning (2nd Trimester)
+# Machine Learning and Computational Statistics (2nd Trimester)
 *This folder contains the final assignment for the Machine Learning course.*
 
 ### Information
