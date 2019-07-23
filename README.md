@@ -1,8 +1,10 @@
 # MSc. Data Science
 
 ### Introduction
-This repository contains all the assignments I completed for the Data Science MSc. offered by the Athens University of Economics and Business in the time period 2018-2020.
+This repository contains all the assignments I completed for the **MSc. in Data Science** offered by the **Athens University of Economics and Business** in the time period 2018-2020.
 <br> All assignments have been evaluated and graded before they were uploaded.<br>
+Those that were group assignements are noted in the course's README. <br>
+
 
 I consider this repository as my portfolio since it serves the purpose of showing my progress throught the program's duration as well as a demonstration of the skills I had and those I acquired.
 
