@@ -1,5 +1,5 @@
 # Large Scale Data Management (2nd Trimester)
-*This branch contains the final assignment for the course Large Scale Data Management* <br>
+*This folder contains the final assignment for the course Large Scale Data Management* <br>
 
 The course served as an introduction to Big data management, Map-Reduce and PySpark. <br>
 
