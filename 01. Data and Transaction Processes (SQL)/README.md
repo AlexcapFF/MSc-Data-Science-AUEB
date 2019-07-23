@@ -1,6 +1,6 @@
 # Data and Transaction Processes (SQL) (1st Trimester)
 
-*This branch contains the assignment of the Data and Transaction Processes course*<br>
+*This folder contains the assignment of the Data and Transaction Processes course*<br>
 This course served as an introduction to T-SQL.
 <br><br>
 #### Disclaimer 
