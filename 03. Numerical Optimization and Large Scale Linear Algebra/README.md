@@ -1,5 +1,5 @@
 # Numerical Optimization and Large Scale Linear Algebra (3rd Trimester)
-*This branch holds the three assingments for the NOaLSLA course*
+*This folder holds the three assingments for the NOaLSLA course*
 
 The scope of this course was to expose us to numerical optimization methods.
 
