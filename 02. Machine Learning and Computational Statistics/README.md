@@ -1,5 +1,5 @@
 # Machine Learning (2nd Trimester)
-*This branch contains the final assignment for the Machine Learning course.*
+*This folder contains the final assignment for the Machine Learning course.*
 
 ### Information
 The scope of this course was to present various parametric and non-parametric ML techninques for Supervised and Unsupervised Learning. <br>Some of the algorithms/methods we covered were:
