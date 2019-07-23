@@ -12,4 +12,6 @@ The scope of this course was to expose us to numerical optimization methods.
     The scope of this assignment was to create Google's pagerank algorithm using the Power Iteration and Gauss-Seidel iterative method. 
 
 
-**Note**: *Obviously, partial or total copying of these assignments should include their source*
+<br><br>
+#### Disclaimer 
+**The author does not claim that the assignments of this repo are complete and/or correct in any way. The work presented here is purely for demonstration purposes and partial or complete use of it for academic or other purpose is advised against.**
