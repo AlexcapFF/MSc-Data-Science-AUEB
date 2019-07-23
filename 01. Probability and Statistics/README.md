@@ -11,4 +11,6 @@ The data were given directly by the professor in an excel file. <br>
 The assignments were done in R and SPSS Statistics.
 
 
-**Note**: *Obviously, partial or total copying of these assignments should include their source*
+<br><br>
+#### Disclaimer 
+**The author does not claim that the assignments of this repo are complete and/or correct in any way. The work presented here is purely for demonstration purposes and partial or complete use of it for academic or other purpose is advised against.**
