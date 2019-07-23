@@ -14,7 +14,7 @@ For this assignment we used several different classifiers and chose the best per
 - Assignment3 <br>
 For this we created Multi Layer Perceptrons (Keras) and selected the best performing Neural Network. 
 - Assignment1 and Assignment4 (**in gitlab only**)<br>
-The other two assignments which can be found in our gitlab repo were about N-gram Language Models (Assingment1) and building a Recurring Neural Network on the tweeter dataset (Assignment4).
+The other two assignments which can be found in our gitlab repo were about N-gram Language Models (Assignment1) and building a Recurring Neural Network for the tweeter dataset (Assignment4).
 
 
 
